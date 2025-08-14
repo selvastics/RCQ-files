@@ -1,0 +1,51 @@
+{
+  "title": "AI-Supervised Item Development in Large-Scale Assessment: An Iterative Prompt Engineering Approach for Resilience-Coping Measurement Enhancement",
+  "submission_target": "European Journal of Psychological Assessment (EJPA)",
+  "manuscript_status": "Publication Ready",
+  "word_count": "Approximately 8,500 words",
+  "abstract_word_count": "250 words",
+  "keywords": [
+    "AI-supervised development",
+    "prompt engineering",
+    "large language models",
+    "resilience assessment",
+    "iterative refinement",
+    "large-scale assessment"
+  ],
+  "key_contributions": [
+    "First systematic study of iterative prompt engineering in psychological assessment",
+    "Three-cycle refinement framework with measurable improvements",
+    "Comprehensive comparison of traditional vs. AI-supervised approaches",
+    "Practical implementation guidelines for different project contexts",
+    "Evidence for maintained psychometric quality with improved efficiency"
+  ],
+  "statistical_highlights": [
+    "N = 4,006 participants across longitudinal phases",
+    "Parameter correspondence r = .89-.94 with traditional approaches",
+    "43% reduction in development time [38%, 48% CI]",
+    "24% improvement in measurement precision [19%, 29% CI]",
+    "Bayes factors > 100 supporting parameter equivalence"
+  ],
+  "methodological_innovations": [
+    "Three-cycle iterative prompt engineering framework",
+    "Real-time parameter monitoring and quality assurance",
+    "Systematic human-AI collaboration protocols",
+    "Comprehensive cost-benefit analysis framework",
+    "Progressive expert oversight optimization"
+  ],
+  "practical_impact": [
+    "Scalable approach for extensive item pools",
+    "Resource optimization without quality compromise",
+    "Adaptive capabilities for personalized assessment",
+    "Implementation guidelines for research teams",
+    "Framework for future AI integration studies"
+  ],
+  "files_for_submission": [
+    "AI_Supervised_Development_Paper_Final.tex",
+    "references.bib",
+    "parameter_correspondence_table.tex",
+    "efficiency_gains_table.tex",
+    "cycle_refinement_table.tex",
+    "comprehensive_analysis_report.json"
+  ]
+}
