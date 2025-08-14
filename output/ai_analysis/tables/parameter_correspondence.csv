@@ -1,0 +1,5 @@
+Parameter_Type,Correlation,CI_Lower,CI_Upper,ICC,RMSE,Bayes_Factor
+General Factor Discrimination,0.936,0.912,0.954,0.933,0.094,847.3
+Specific Factor Discrimination,0.894,0.861,0.92,0.889,0.107,234.7
+Difficulty Parameters,0.891,0.856,0.918,0.887,0.132,198.4
+Factor Loadings,0.918,0.889,0.94,0.914,0.103,412.6

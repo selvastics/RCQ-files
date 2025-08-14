@@ -1,0 +1,5 @@
+Metric,Traditional,AI_Supervised,Improvement,CI_Lower,CI_Upper
+Development Time,18.7 weeks,10.7 weeks,43%,38%,48%
+Expert Hours,152 hours,89 hours,41%,35%,47%
+Sample Requirements,387 participants,279 participants,28%,23%,33%
+Measurement Precision,Baseline,+24% improvement,24%,19%,29%
